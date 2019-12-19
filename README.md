@@ -1,0 +1,2 @@
+# springcloud_config
+springcloud远程配置仓库
